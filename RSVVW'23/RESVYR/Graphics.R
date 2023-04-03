@@ -6,9 +6,6 @@
 # File creation: 08/02/2023
 # Last modification: 09/02/2023
 
-# WORKING DIRECTORY -------------------------------------------------------
-setwd("C:/Users/NUTTEC/OneDrive - Pfizer/02 - RSV OA/Scientific projects/RESVYR/MANUSCRIPT AND ABSTRACT/RSVVW23 (ReSViNET conference)/Poster")
-
 # PACKAGE -----------------------------------------------------------------
 
 library(tidyverse)
